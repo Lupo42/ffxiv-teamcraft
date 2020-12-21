@@ -121,10 +121,10 @@
     "electron-log": "^3.0.6",
     "electron-squirrel-startup": "^1.0.0",
     "fs-extra": "^7.0.1",
-    "is-elevated": "^3.0.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.10",
     "node-machina-ffxiv": "^2.38.0",
+    "node-windows": "^0.1.14",
     "request": "^2.88.2",
     "tslib": "^1.10.0"
   },
